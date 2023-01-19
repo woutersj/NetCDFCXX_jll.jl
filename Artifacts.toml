@@ -20,10 +20,10 @@ os = "linux"
     url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[NetCDFCXX]]
 arch = "x86_64"
-git-tree-sha1 = "a8baa9b6b65ed5f800f1b368f0966638f5de97d4"
+git-tree-sha1 = "1ac385a2ae631cb1991ea6db679d6d58ef912f56"
 libc = "glibc"
 os = "linux"
 
     [[NetCDFCXX.download]]
-    sha256 = "0cc5f40a5cd8141ff9114a84c8339098454a7f5e8818ec040eb3cce5c78c6d44"
+    sha256 = "f3ac0434850c3f084f0c372bd32ca26fe6605ebc49ba95102479ea38e9cad94e"
     url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu.tar.gz"
