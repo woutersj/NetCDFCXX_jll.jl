@@ -22,6 +22,7 @@ The tarballs for `NetCDFCXX_jll.jl` have been built from these sources:
 
 The following JLL packages are required by `NetCDFCXX_jll.jl`:
 
+* `CompilerSupportLibraries_jll`
 * `NetCDF_jll`
 
 ## Products
