@@ -7,3 +7,23 @@ os = "linux"
     [[NetCDFCXX.download]]
     sha256 = "9dea7e53c4ef3eb55252d16b0798569294881cbc0ec1e9013142eb87cbd74570"
     url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu.tar.gz"
+[[NetCDFCXX]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2a7ad7f30f2b5190a721232d5de9efd2e47aa92"
+libc = "glibc"
+os = "linux"
+
+    [[NetCDFCXX.download]]
+    sha256 = "9dea7e53c4ef3eb55252d16b0798569294881cbc0ec1e9013142eb87cbd74570"
+    url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[NetCDFCXX]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c6859ae512a460ae998934d1299cc2ade977bbf"
+libc = "glibc"
+os = "linux"
+
+    [[NetCDFCXX.download]]
+    sha256 = "b3c84e35cb05398baceefaa2e33a3ef1294c1db3fc3dd57eadd8db801f5addfc"
+    url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu-cxx11.tar.gz"

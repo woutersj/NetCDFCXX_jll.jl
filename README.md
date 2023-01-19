@@ -16,7 +16,8 @@ The tarballs for `NetCDFCXX_jll.jl` have been built from these sources:
 
 `NetCDFCXX_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
+* `Linux x86_64 {cxxstring_abi=cxx03, libc=glibc}` (`x86_64-linux-gnu-cxx03`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11`)
 
 ## Dependencies
 
