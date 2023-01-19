@@ -1,0 +1,9 @@
+[[NetCDFCXX]]
+arch = "x86_64"
+git-tree-sha1 = "a2a7ad7f30f2b5190a721232d5de9efd2e47aa92"
+libc = "glibc"
+os = "linux"
+
+    [[NetCDFCXX.download]]
+    sha256 = "9dea7e53c4ef3eb55252d16b0798569294881cbc0ec1e9013142eb87cbd74570"
+    url = "https://github.com/woutersj/NetCDFCXX_jll.jl/releases/download/NetCDFCXX-v4.3.1+0/NetCDFCXX.v4.3.1.x86_64-linux-gnu.tar.gz"
